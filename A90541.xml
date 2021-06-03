@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Peters message delivered in both Houses, to the Lords and Commons in Parliament; from Sir Thomas Fairfax. With, the narration of the taking of Dartmouth. And a list of the names of the chief officers and gentlemen, and the cullers, arms, ordnance, powder, and other ammnnition [sic] and purchase; and the severall victories of the army, and their scattering of the enemy to severall places. With other proceedings concerning Prince Charles, and other passages of great concernment. This narration of Mr. Hugh Peters, minister of Gods word, commanded to be printed, is published according to order, to prevent false copies.</title>
+            <author>Peters, Hugh, 1598-1660.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90541</idno><idno type="EEBO-CITATION">99861266</idno>
+  <idno type="VID">158996</idno>
+  <idno type="EEBO-PROQUEST">2240890745</idno>
+  
+            <idno type="STC">Wing P1710</idno>
+            <idno type="STC">Thomason E318_6</idno>
+            <idno type="STC">ESTC R200549</idno>
+            <idno type="PROQUEST">99861266</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861266e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90541)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158996)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 52:E318[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Peters message delivered in both Houses, to the Lords and Commons in Parliament; from Sir Thomas Fairfax. With, the narration of the taking of Dartmouth. And a list of the names of the chief officers and gentlemen, and the cullers, arms, ordnance, powder, and other ammnnition [sic] and purchase; and the severall victories of the army, and their scattering of the enemy to severall places. With other proceedings concerning Prince Charles, and other passages of great concernment. This narration of Mr. Hugh Peters, minister of Gods word, commanded to be printed, is published according to order, to prevent false copies.</title>
+                  <author>Peters, Hugh, 1598-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 26 1645"; the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Dartmouth (Devon, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158996:1"/>
+            <p>Mr. <hi>PETERS</hi> MESSAGE Delivered in Both Houses, TO THE LORDS and COMMONS IN PARLIAMENT; FROM Sir <hi>THOMAS FAIRFAX.</hi> WITH, The Narration of the Taking <hi>OF</hi> DARTMOUTH.</p>
+            <p>AND A List of the Names of the chief Officers and Gentlemen, and the Cullers, Arms, Ordnance, Powder, and other Ammunition and purchase; and the seve<g ref="char:EOLhyphen"/>rall Victories of the Army, and their scattering of the Enemy to severall places.</p>
+            <p>With other proceedings concerning Prince <hi>Charles,</hi> and other passages of great concernment.</p>
+            <p>
+               <hi>This Narration of Mr.</hi> Hugh Peters, <hi>Minister of Gods Word, commanded to be printed, is published according to Order, to pre<g ref="char:EOLhyphen"/>vent false Copies.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Jane Coe.</hi> 164<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="authors_preface">
+            <pb facs="tcp:158996:2"/>
+            <p>
+               <hi>IF I were to breath out my last, in one wish for this Kingdom, it should be this; that since we have seen the difference of men, and Gods going forth with his faithful &amp; chosen ones; we would at last in all places, change our accompts, and not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et the Ciphers before the Figures, which hath been usuall; if we set faithfulnesse, and honestie, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fter the empty Ciphers of honour, friends and estate, a man under that reckoning is but one: but if we set the Figure before the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iphers, and give true worth its due, and let those Ciphers follow the Figures, wee shall find one good man to be a thousand: through want of this kind of Areth<g ref="char:EOLhyphen"/>matick, the Aire is fil▪d with complaints from all parts. For it is certain, that good men may save a Nation, when good Lawes cannot; the good Lord give Ʋs the enjoyment of both, and make great Men good Men, and good Men great.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Jan. 25.</date>
+               </dateline>
+               <signed>Yours, HVGH PETERS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="3" facs="tcp:158996:2"/>
+            <head>Mr. <hi>Peters</hi> Message delivered in both the Houses, to the Lords and Commons in Parliament, from Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax.</hi> With the Narration of the Ta<g ref="char:EOLhyphen"/>king <hi>Dartmouth.</hi> And a List of the chief Officers and Gentlemen, and the Cullers, Armes, &amp;c.</head>
+            <p>MR. <hi>Peters,</hi> upon Wednesday last in the morning, tooke his Iourney from Dartmouth and came to London, Friday, at eight of the Clock in the morning; bringing with him, from the Generall, a Letter to the House of Lords, and another to the House of Commons; both letters referring to his relation of particulars, concerning the West, who being called into the House of Commons, was required by the Speaker so to do; and in his relation applyed himselfe to these speciall heads. First, to some peeces of Gods providence, he tooke notice of Secondly, to the State of the Enemy. And Thirdly, to the condition of the Army, and his discourse was as followeth.</p>
+            <div type="speech">
+               <p>MAy it please this honourable House, to take notice, when our Army lay on the East side of Exeter▪ our way seemed doubt<g ref="char:EOLhyphen"/>full to us, and therfore, had no means to attend upon, but Councell or Providence, the former of which did not leade us Westward; our Army being sickly, the Winter violent, our men ill clothed, but the Lord who hath wrought all our workes for us, partly from the report of the Enemies approaching, and partly from the
+<pb n="4" facs="tcp:158996:3"/> necessity of seeking better quarters; drew us where we are, and since that time, have given into our hands neere 1000. of the E<g ref="char:EOLhyphen"/>nemies Horse, and cast a pannick feare upon them, or Magormi<g ref="char:EOLhyphen"/>sabibe, that they are a terrour to themselves, for upon the advance of a party from Credi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, they fled, and six of Collonel <hi>Okeys</hi> Dragoones, put 500. of the Horse from their Post, at which time, they fled from Plymouth, leaving their Guns, Armes, and Ammunition behind them; we marched to Totnee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; having our designe upon Dartmouth, where we found very good quarters, and this is very remarkeable, by the Testimony of many; that be<g ref="char:EOLhyphen"/>fore we came neere Dartmouth, in seven weeks there had been little or no Fish taken upon that coast: but now there was so ma<g ref="char:EOLhyphen"/>ny mullits▪ taken, as comfortably supplyed our Army, which continueth to this time.</p>
+               <p>It is also observable; that in the storming the Towne, though all things did not answer the appointments in the Councell; yet there w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s no confusion or miscarrige, and this I must add, that we had faire weather to a minute till the Towne was taken: and then it rayned.</p>
+               <p>It was taken without much blood-shed, we lost but two men, that we heare of; what we tooke there, the following list will manifest; in which service, that gallant Collonel <hi>Hammond</hi> who first entred, and his Major, Major <hi>Sanders;</hi> with the other wor<g ref="char:EOLhyphen"/>thies, Collonel <hi>Fortiscue</hi> and his Regiment, Collonel <hi>Lambert</hi> and his, and Lieutenant Collonel <hi>Pride,</hi> and his, had the cheifest shar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and did like themselves; It is the mercy of God in giving this Towne; that already appeares to those that know it, and will more hereafter to those that are ignorant, where tenn strong Workes <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Forts, with one hundred and three peeces mounted upon them, and mand, might be thought sufficient to maintaine that Towne and harbour, against a very potent Army.</p>
+               <p>Secondly, for the condition of the Enemy, the Lord hath scat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ered them like Chaffe before the winde; they fly when none per<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s them; they are broken, and divided in their Councells, some of them would force the Prince into France, some few about him, are of his owne minde, rather to stay here, and put it to a hazard; some of the chiefe Gentlem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of Cornwall, begin to looke back upon their error, <hi>Greenefield</hi> somtimes drags some numbers of
+<pb n="5" facs="tcp:158996:3"/> poore people to L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unceston, to make an appearance; who soone make their escape againe, and hide themselves; God seemes to distraine for his glory, and make his enemies confesse; surely the Lord is God, the Lord is God; to conclude, when I looke upon the face of things in the West, the Enemies worke resembles an ill plaid-game, at Chesse (only I crave leave for the Leavity of speech) where not to speake any thing of giving the check, to the fury of some: I hope I may say the Bishops are thrown into the bagg, but I am sure the Knights, Rookes, and Pawnes, are shifting from place to place; being driven into a narrow corner, witnesse the Courtiers we have taken lately; some on shore, and some on Sea, bound for France; I must conclude, that the com<g ref="char:EOLhyphen"/>plexion of your affaires in those parts, is very promising.</p>
+               <p>Thirdly and lastly, to returne to your Army: I shall take bouldnesse to let you know, the good and evill of it, two things will commend them, above any Army I have knowne, <hi>viz.</hi> their unity, and activity; I have not knowne the least breach among them, in the least to distract or retard your affaires, though their Iudgements may differ in many perticulars; I remember a great Prince once asked in the meridian of the King of Swedens suc<g ref="char:EOLhyphen"/>cesse, how he did to mannage his Worke, and maintaine his Warr▪ it was answered, by the Councell of Oxenstern, and the love of his people; I can say, your Army is under a blessed conduct, their Councells Godly, and faithfull, more love I have not seene, which I believe may spring from this Roote; that through grace, we make Godlinesse our intrest, and not opinion, th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich we wish were the Spirit of the Kingdome; though we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>scribe to none, many there be who loose a reall intrest t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>intaine a floating fancie. We could desire, that the choller that we find in this City; yea that black choller: I had almost said, that black coate choller were spent, upon the ignorance and prophannesse of the Country.</p>
+               <p>One thing there is most singular in this your Army, that where<g ref="char:EOLhyphen"/>as Souldiers usually spend, and make forfiture even of the ci<g ref="char:EOLhyphen"/>vility▪ they bring into other Armies; here men grow religious, and more spirituall thriving, then in any place of the Kingdome, that I may a little change the old verse, and say, <hi>Multâ fides pietasque vivis, quae hac castrâ sequntur,</hi> yea, for my selfe; though
+<pb n="6" facs="tcp:158996:4"/> I have been <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong a learner, and sometime an unworthy teacher of others, yet have more then an ordinarie cause to blesse God, for being a member of this Army, in reference to my spi<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uals; that I can unfainedly say to it▪ <hi>Te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>úm vivere amem, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> lubens mori<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi> Let me ad this, that the civilities of this Army, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>baucheries of the Enemies, have much promoted your co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quests.</p>
+               <p>For the evill of the Army, it is not without its <hi>sinne,</hi> yea <hi>Army sins▪</hi> though not counte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ced by the authority there exercised; there wants are (maynly cloths) much agravated by this tedious Winter, that however the Committee of the Army and their No<g ref="char:EOLhyphen"/>ble, and paynfull cheerman have much obliged us: yet through what obstructions we k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow, not, not o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e suite of clothes is come unto them, what their marches have been, and in what Seasons▪ what Guards, &amp; what Posts they have kept &amp; in what distances; we leave to others to judge: I only say. I wish those may be cloathed, whose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aked bodies have even cloathed the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngdome.</p>
+               <p>And now I take leave to present you with some bunches of Grapes, brought from the Canaanites quarters, for a taste; I have brought you divers Cullers taken in Town and Country, a<g ref="char:EOLhyphen"/>mongst the rest, the Kings first own Cullers▪ which he first advan<g ref="char:EOLhyphen"/>ced at York against the Parliament; and this I show as a piece of their souldiery.</p>
+               <p>I have brought you a piece of their policie, as you may read in these bundles of Letters, I found in the Gover<g ref="char:EOLhyphen"/>nours House at Dartmouth, some of the Princes, some of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uperts,</hi> some <hi>Gorings,</hi> some <hi>Culpeppers;</hi> together with their Commissions by Sea and Land.</p>
+               <p>And for a taste of their Piety, I present you with a Masse book, and an Altar, which I took from the Engi<g ref="char:EOLhyphen"/>nier of Dartmouth, who is a D<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Masse Priest.</p>
+               <p>And lastly, I have some of their persons to present un<g ref="char:EOLhyphen"/>to you▪ committed unto me by our Generall, <hi>viz.</hi> The Earl of Newport, and Baron <hi>Den<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ams</hi> son; who was use<g ref="char:EOLhyphen"/>full to us in the delivering up of the Castle and Fort, on Tuesday last.</p>
+               <pb n="7" facs="tcp:158996:4"/>
+               <p>And now my most humble and earnest request unto this Honou<g ref="char:EOLhyphen"/>rable House is, that the longing expectation of our Noble Generall, and his Councell about him, may be satisfied, in the speedy recruit<g ref="char:EOLhyphen"/>ing of this Army▪ for which I might use many Arguments, but that I am commanded from those I come, not to be a Trumpetter of their praises, though I conceive it but the discharge of my duty, to say that such an unparaleld Generall, and active Army, by whom the Lord hath given you a great measure of heaped up mercies should not be denied that, wherein the good of the State is more concerned then their own, could the common souldier be paid Weekly, and your Army recruited to the establishment, and one thing more done, which is, a true new Modelling of your Navy, with fitting men and fitting Ships rightly imployed, of which I have presented a pattern to some worthies of this House, I make no doubt but (through Gods blessing upon this Honourable House) thus recruited, this Army thus established and paid, this Navy so modelized, you might throw the Gauntlet to the proudest Nation, near<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r hand, or farther off. Which that you may be enabled to do by the powerfull presence of the Eternall God, I shall desire, that the dew of Heaven may fall upon all your Councels, and for your own soules that they may flourish like a Green hearb, and watered Garden.</p>
+            </div>
+         </div>
+         <div type="list">
+            <head>
+               <hi>Prisoners taken at</hi> Dartmouth, <hi>Jan.</hi> 19. 1645.</head>
+            <list>
+               <item>SIr Hugh Pollard Baron, Go<g ref="char:EOLhyphen"/>vernour.</item>
+               <item>Earl Newport.</item>
+               <item>Col. Seymour.</item>
+               <item>Mr. Denham, B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Denhams son.</item>
+               <item>Lieutenant-collonel Nich. Cod<g ref="char:EOLhyphen"/>drington.</item>
+               <item>Lieutenant-collonel Bluet.</item>
+               <item>Lieutenant-col. Tho. Wankland.</item>
+               <item>Major Francis F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord.</item>
+               <item>Major Hooper.</item>
+               <item>[Major Pollard, slain.]</item>
+               <pb n="8" facs="tcp:158996:5"/>
+               <item>Captain Robert Pollard.</item>
+               <item>Captain Andrew Woodley.</item>
+               <item>Captain Andrew Sampson.</item>
+               <item>Captain Robert Duke.</item>
+               <item>Captain Alexand. Powsell.</item>
+               <item>Captain Thomas Coffin.</item>
+               <item>Captain John Bluet.</item>
+               <item>Captain John Ford.</item>
+               <item>Captain Anthony Stert.</item>
+               <item>Captain George Downing.</item>
+               <item>Captain Arthur Haughton.</item>
+               <item>Captain Robert Conway.</item>
+               <item>Captain Nicholas Reynolds.</item>
+               <item>Captain William Reynolds.</item>
+               <item>Captain Roger Lea.</item>
+               <item>Captain Owen Philips.</item>
+               <item>Lieutenant John King.</item>
+               <item>Lieutenant Lewis Pollard.</item>
+               <item>Lieutenant Roger Hunt.</item>
+               <item>Lieutenant William Duncalfe.</item>
+               <item>Lieutenant Charles Rigand.</item>
+               <item>Lieutenant William Eston.</item>
+               <item>Lieutenant Francis Rea.</item>
+               <item>Lieutenant Nicholas Labully.</item>
+               <item>Lieutenant John Stanner.</item>
+               <item>Lieutenant Robert Johnson.</item>
+               <item>Lieutenant George Drew.</item>
+               <item>Lieutenant Sam. Williams.</item>
+               <item>Lieutenant Alexander Hinlay.</item>
+               <item>Lieutenant John Searle.</item>
+               <item>Ensigne John Garret.</item>
+               <item>Ensigne John Richard.</item>
+               <item>Ensigne John Upton.</item>
+               <item>Ensigne John Read.</item>
+               <item>Ensigne Robert Dodge.</item>
+               <item>Ensigne Arthur Waggin.</item>
+               <item>Ensigne Thomas Vickering.</item>
+               <item>Ensigne John Fitz-James.</item>
+               <item>Ensigne Edward Covine.</item>
+               <item>Cornet Lamot, &amp;c. Others not brought in.</item>
+               <item>Mr. Reynolds, Gentlem. of arms. <hi>Many Country Gentlemen.</hi>
+               </item>
+               <item>Mr. George Huckmore.</item>
+               <item>Mr. Reynolds, <hi>senior.</hi>
+               </item>
+               <item>Mr. Rich. Stukely.</item>
+               <item>Mr. Carew Stukely.</item>
+               <item>Mr. Reynolds, <hi>junior.</hi>
+               </item>
+               <item>Mr. Hooper, &amp;c.</item>
+               <item>Many inferiour Officers.</item>
+               <item>Prisoners in all about 600.</item>
+               <item>All the common soldiers set at li<g ref="char:EOLhyphen"/>berty.</item>
+               <item>Many Barrels of Powders.</item>
+               <item>1000. Arms, besides broken ones.</item>
+               <item>Two men of Warre.</item>
+               <item>Ships in all about 30.</item>
+               <item>100. Horses.</item>
+               <item>The particulars not yet delivered.</item>
+               <item>Of Ordnance about 100. Peeces already taken notice of, besides what are in ships, and other places. In all near 200.</item>
+            </list>
+         </div>
+         <div type="list">
+            <list>
+               <head>Mr. <hi>Peters</hi> delivered to the Par<g ref="char:EOLhyphen"/>liament.</head>
+               <item>8. Horse Cullers.</item>
+               <item>5. Foot Cullers.</item>
+               <item>7. Standards of Foot cullers left in the Army.</item>
+               <item>1. Cullers, with the Kings own picture▪ and a sword in one hand, and a book in the other, was not brought off from the Ship, in which Mr. <hi>Peters</hi> came by Sea.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
